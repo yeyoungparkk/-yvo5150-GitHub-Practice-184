@@ -1,7 +1,7 @@
 
 # GitHub Pages Assignment
 
-## jes6521 / GitHub-Practice-184 
+## yvp5150 / GitHub-Practice-184 
 Forked from olbeck
 
 
